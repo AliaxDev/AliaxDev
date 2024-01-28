@@ -1,9 +1,9 @@
 <p text-align="center" width="100%" align="center"><img src="https://raw.githubusercontent.com/aliaxdev/aliaxdev/master/logo_aliax.png" width="100">
- <h1 text-align="center" width="100%" align="center">Hola, mi nombre es Leandro 👋<br><span heigth="30">o puedes llamarme Aliax!</span></h1>
- <h3>Freelance Front-End Javascript Technologies 💻</h3>
+ <h1 text-align="center" width="100%" align="center">Hola, mi nombre es Leandro 👋<br><span heigth="14">o puedes llamarme Aliax!</span></h1>
+ <h3 text-align="center" width="100%" align="center">Freelance Front-End Javascript Technologies 💻</h3>
 </p> 
 
-<img src="https://raw.githubusercontent.com/aliaxdev/aliaxdev/master/baner_github.gif" height="100">
+<img src="https://raw.githubusercontent.com/aliaxdev/aliaxdev/master/baner_github.gif" height="250">
 
 ## Encuéntrame en:
 
