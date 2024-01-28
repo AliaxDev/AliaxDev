@@ -3,7 +3,7 @@
  <h3>Freelance Full-Stack Javascript Technologies 💻</h3>
 </p> 
 
-<img src="https://raw.githubusercontent.com/aliaxdev/aliaxdev/master/baner_github.gif" higth="150">
+<img src="https://raw.githubusercontent.com/aliaxdev/aliaxdev/master/baner_github.gif" higth="100">
 
 ## Encuéntrame en:
 
@@ -22,10 +22,10 @@
 <p align="left">
   
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="50" >
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="48" >
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
-  <img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" width="50">
+  <img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" width="120">
 </p>
 
 [![Supabase](https://img.shields.io/badge/Supabase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
