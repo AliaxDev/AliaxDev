@@ -1,10 +1,8 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/logo_aliax.png) Hola, mi nombre es Leandro 👋
-### Front-End Developer Javascript
+# ![https://aliaxdev.github.io](https://raw.githubusercontent.com/aliaxdev/aliaxdev/master/logo_aliax.png) Hola, mi nombre es Leandro 👋
+### Freelance Full-Stack Javascript Technologies 💻
 
-<br>
-![https://aliaxdev.com/git](./git_github_logo_aliax.png)
-## Freelance Full-Stack Javascript Technologies 💻
-<br>
+img
+
 ## Encuéntrame en:
 
 [![Twitter](https://img.shields.io/badge/Twitter-@mouredev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/aliaxdev)
