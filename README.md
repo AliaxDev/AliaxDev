@@ -1,5 +1,6 @@
-# Hola, mi nombre es Leandro👋
-<span>o llamarme ...Aliax!</span>
+# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/logo_aliax.png) Hola, mi nombre es Leandro 👋
+### Front-End Developer Javascript
+
 <br>
 ![https://aliaxdev.com/git](./git_github_logo_aliax.png)
 ## Freelance Full-Stack Javascript Technologies 💻
