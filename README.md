@@ -3,7 +3,7 @@
  <h3 text-align="center" width="100%" align="center">Freelance Front-End Javascript Technologies 💻</h3>
 </p> 
 
-<img src="https://raw.githubusercontent.com/aliaxdev/aliaxdev/master/baner_github.gif" height="250">
+<img src="https://raw.githubusercontent.com/aliaxdev/aliaxdev/master/baner_github.gif" width="250">
 
 ## Encuéntrame en:
 
@@ -20,7 +20,7 @@
 
 **Languages and Tools:** 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/aliaxdev/aliaxdev/master/html.gif" width="50">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html" width="48" >
   <img src="https://raw.githubusercontent.com/aliaxdev/aliaxdev/master/css.gif" width="50">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="48" >
