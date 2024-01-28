@@ -1,8 +1,7 @@
 
-<p>
- <img src="https://raw.githubusercontent.com/aliaxdev/aliaxdev/master/logo_aliax.png" width="50"> 
- <h1 higth="50">Hola, mi nombre es Leandro 👋</h1>
- <span>o puedes llamrme Aliax!</span> 
+<p aling="center">
+ <img src="https://raw.githubusercontent.com/aliaxdev/aliaxdev/master/logo_aliax.png" width="50"> <h1 higth="70">Hola, mi nombre es Leandro 👋
+ <span>o puedes llamrme Aliax!</span></h1>
 </p>
 
 ### Freelance Full-Stack Javascript Technologies 💻
