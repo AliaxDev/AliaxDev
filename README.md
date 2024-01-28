@@ -1,9 +1,12 @@
-<img src="https://raw.githubusercontent.com/aliaxdev/aliaxdev/master/logo_aliax.png" width="50"> 
+
 <p>
+ <img src="https://raw.githubusercontent.com/aliaxdev/aliaxdev/master/logo_aliax.png" width="50"> 
  <h1 higth="50">Hola, mi nombre es Leandro 👋</h1>
  <span>o puedes llamrme Aliax!</span> 
 </p>
+
 ### Freelance Full-Stack Javascript Technologies 💻
+
 ![baner_github](https://github.com/AliaxDev/AliaxDev/assets/97317491/1692de13-6c02-4854-9f26-0f8eb2ccad89)
 
 ## Encuéntrame en:
