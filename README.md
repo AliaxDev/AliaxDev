@@ -1,10 +1,9 @@
 <p text-align="center" width="100%" align="center"><img src="https://raw.githubusercontent.com/aliaxdev/aliaxdev/master/logo_aliax.png" width="100">
- <h1 text-align="center" width="100%" align="center">Hola, mi nombre es Leandro 👋</h1>
- <br><span heigth="14">o puedes llamarme Aliax!</span>
+ <h1 text-align="center" width="100%" align="center">Hola, soy Aliax!👋</h1>
  <h3 text-align="center" width="100%" align="center">Freelance Front-End Javascript Technologies 💻</h3>
 </p> 
 
-<img src="https://raw.githubusercontent.com/aliaxdev/aliaxdev/master/baner_github.gif" width="250">
+<img src="https://raw.githubusercontent.com/aliaxdev/aliaxdev/master/baner_github.gif" width="100%">
 
 ## Encuéntrame en:
 
@@ -19,7 +18,7 @@
 
 <p>En los ultimos años he crecido como Desarrollador y donde <a href="https://aliaxdev.github.io">AliaxDev</a> es la union de los resultados de mi esfuerzo en la industria del desarrollo de software. Me he dedicado a especializarme en el desarrollo de Aplicaciones Web. Amante de los video juegos independientes y el Pixel Art.</p>
 
-**Languages and Tools:** 
+## Languages and Tools:
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html" width="48" >
   <img src="https://raw.githubusercontent.com/aliaxdev/aliaxdev/master/css.gif" width="50">
@@ -27,7 +26,7 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="48" >
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
-  <img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" height="50">
+  <img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" scale="2">
 </p>
 
 [![Supabase](https://img.shields.io/badge/Supabase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
@@ -45,7 +44,8 @@
 
 #### También Puedes apoyar mi trabajo haciendo "☆ Star" en el repo 😉
 <br>
- <span heigth="20" text-align="center" width="100%" align="center">¡Muchas Gracias!<span>
+
+<h3 text-align="center" width="100%" align="center">¡Muchas Gracias!</h3>
 
 
 
