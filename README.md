@@ -1,5 +1,6 @@
 <p text-align="center" width="100%" align="center"><img src="https://raw.githubusercontent.com/aliaxdev/aliaxdev/master/logo_aliax.png" width="100">
- <h1 text-align="center" width="100%" align="center">Hola, mi nombre es Leandro 👋<br><span heigth="14">o puedes llamarme Aliax!</span></h1>
+ <h1 text-align="center" width="100%" align="center">Hola, mi nombre es Leandro 👋</h1>
+ <br><span heigth="14">o puedes llamarme Aliax!</span>
  <h3 text-align="center" width="100%" align="center">Freelance Front-End Javascript Technologies 💻</h3>
 </p> 
 
@@ -43,8 +44,8 @@
 [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/aliaxdev)
 
 #### También Puedes apoyar mi trabajo haciendo "☆ Star" en el repo 😉
-
-==================================================  ¡Muchas Gracias!  ==================================================
+<br>
+ <span heigth="20" text-align="center" width="100%" align="center">¡Muchas Gracias!<span>
 
 
 
