@@ -1,8 +1,4 @@
-
-<article aling="center">
- <img src="https://raw.githubusercontent.com/aliaxdev/aliaxdev/master/logo_aliax.png" width="50"> <p aling="center" ><h1 higth="70">Hola, mi nombre es Leandro 👋
- <span higth="30">o puedes llamarme Aliax!</span></h1>
-</article>
+<p><img src="https://raw.githubusercontent.com/aliaxdev/aliaxdev/master/logo_aliax.png" width="50"></p> <p  higth="70">Hola, mi nombre es Leandro 👋<br><span higth="30">o puedes llamarme Aliax!</span></p>
 <h3>Freelance Full-Stack Javascript Technologies 💻</h3>h3
 
 ## Encuéntrame en:
@@ -16,7 +12,7 @@
  
 <h4>> Soy Desarrollador Front-End Javascript desde hace más de 2️⃣ Años ❗❗</h4>
 
-<p>En los ultimos años he crecido como Desarrollador y <a href="https://aliaxdev.github.io">AliaxDev</a> es el resultado de mi esfuerzo en la industria del desarrollo de software. Me he dedicado a especializarme en el desarrollo de Aplicaciones Web. Amante de los video juegos independientes y el Pixel Art.</p>
+<p>En los ultimos años he crecido como Desarrollador y donde <a href="https://aliaxdev.github.io">AliaxDev</a> es la union de los resultados de mi esfuerzo en la industria del desarrollo de software. Me he dedicado a especializarme en el desarrollo de Aplicaciones Web. Amante de los video juegos independientes y el Pixel Art.</p>
 
 **Languages and Tools:** 
 <p align="left" syle="display:flex; align-content:center">
