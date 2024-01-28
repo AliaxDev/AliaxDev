@@ -1,4 +1,4 @@
-# ![https://aliaxdev.github.io](https://raw.githubusercontent.com/aliaxdev/aliaxdev/master/logo_aliax.png) Hola, mi nombre es Leandro 👋
+<img src="https://raw.githubusercontent.com/aliaxdev/aliaxdev/master/logo_aliax.png" width="50"># Hola, mi nombre es Leandro 👋
 ### Freelance Full-Stack Javascript Technologies 💻
 
 img
