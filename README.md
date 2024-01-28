@@ -1,12 +1,9 @@
 
-<p aling="center">
- <img src="https://raw.githubusercontent.com/aliaxdev/aliaxdev/master/logo_aliax.png" width="50"> <h1 higth="70">Hola, mi nombre es Leandro 👋
- <span>o puedes llamrme Aliax!</span></h1>
-</p>
-
-### Freelance Full-Stack Javascript Technologies 💻
-
-![baner_github](https://github.com/AliaxDev/AliaxDev/assets/97317491/1692de13-6c02-4854-9f26-0f8eb2ccad89)
+<article aling="center">
+ <img src="https://raw.githubusercontent.com/aliaxdev/aliaxdev/master/logo_aliax.png" width="50"> <p aling="center" ><h1 higth="70">Hola, mi nombre es Leandro 👋
+ <span higth="30">o puedes llamarme Aliax!</span></h1>
+</article>
+<h3>Freelance Full-Stack Javascript Technologies 💻</h3>h3
 
 ## Encuéntrame en:
 
@@ -19,7 +16,7 @@
  
 <h4>> Soy Desarrollador Front-End Javascript desde hace más de 2️⃣ Años ❗❗</h4>
 
-<p>En los ultimos años he crecido como Desarrollador y [**AliaxDev**](https://aliaxdev.github.io) es el resultado de mi esfuerzo en la industria del desarrollo de software. Me he dedicado a especializarme en el desarrollo de Aplicaciones Web. Amante de los video juegos independientes y el Pixel Art.</p>
+<p>En los ultimos años he crecido como Desarrollador y <a href="https://aliaxdev.github.io">AliaxDev</a> es el resultado de mi esfuerzo en la industria del desarrollo de software. Me he dedicado a especializarme en el desarrollo de Aplicaciones Web. Amante de los video juegos independientes y el Pixel Art.</p>
 
 **Languages and Tools:** 
 <p align="left" syle="display:flex; align-content:center">
@@ -30,8 +27,8 @@
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
 </p>
+
 [![Supabase](https://img.shields.io/badge/Supabase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
-[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
