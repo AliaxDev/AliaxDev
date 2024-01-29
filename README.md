@@ -1,10 +1,10 @@
 <p text-align="center" width="100%" align="center"><img src="https://raw.githubusercontent.com/aliaxdev/aliaxdev/master/logo_aliax.png" width="100">
- <h1 text-align="center" width="100%" align="center">Hola, soy AliaxDev! <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">
- <h3 text-align="center" width="100%" align="center"> 📌 Freelance | Full-Stack | Javascript Technologies | 💜 Open Source | Developer 💻</h3>
+ <h1 text-align="center" width="100%" align="center">Hola, soy Leandro! <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">
+ <h3 text-align="center" width="100%" align="center"> 📌 Freelance | Full-Stack | Javascript Technologies | 💜 Open Source | by AliaxDev 💻</h3>
 </p> 
 
 <img src="https://raw.githubusercontent.com/aliaxdev/aliaxdev/master/baner_github.gif" width="100%">
-<img src="https://komarev.com/ghpvc/?username=aliaxdev" alt="aliaxdev" />
+<!-- <img src="https://komarev.com/ghpvc/?username=aliaxdev" alt="aliaxdev" /> -->
 
 ## Encuéntrame en:
 
