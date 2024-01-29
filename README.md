@@ -1,5 +1,5 @@
 <p text-align="center" width="100%" align="center"><img src="https://raw.githubusercontent.com/aliaxdev/aliaxdev/master/logo_aliax.png" width="100">
- <h1 text-align="center" width="100%" align="center">Hola, soy Leandro <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">
+ <h1 text-align="center" width="100%" align="center">Hola, mi nombre es Leandro <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">
  <h3 text-align="center" width="100%" align="center"> 📌 Freelance | Full-Stack | Javascript Technologies | 💜 Open Source | by AliaxDev 💻</h3>
 </p> 
 
@@ -19,7 +19,7 @@
 
 <p>En los ultimos años he crecido como Desarrollador donde <a href="https://aliaxdev.github.io">AliaxDev</a> es la union de los resultados de mi esfuerzo en la industria del Desarrollo de Software. Me he dedicado a especializarme en el desarrollo de Aplicaciones Web. Amante de los video-juegos independientes y el Pixel Art.</p>
 
-## Languages and Tools:
+## Tecnologías:
 <p align="left">
   <img height="50px" src="https://cdn.svgporn.com/logos/html-5.svg">
   <img src="https://raw.githubusercontent.com/aliaxdev/aliaxdev/master/css.gif" width="50">
