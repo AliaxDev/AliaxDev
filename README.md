@@ -17,7 +17,7 @@
  
 <h3>> Soy Desarrollador Full-Stack Javascript desde hace más de 2️⃣ Años ❗❗</h3>
 
-<p>En los ultimos años he crecido como Desarrollador donde <a href="https://aliaxdev.github.io">AliaxDev</a> es la union de los resultados de mi esfuerzo en la industria del Desarrollo de Software. Me he dedicado a especializarme en el desarrollo de Aplicaciones Web. Amante de los video-juegos independientes y el Pixel Art.</p>
+<p>En los últimos años he crecido como Desarrollador donde <a href="https://aliaxdev.github.io">AliaxDev</a> es la unión de los resultados de mi esfuerzo en la industria del Desarrollo de Software. Me he estado especializando en el desarrollo de Aplicaciones Web y he aumentando mis proyectos personales. Soy amante de los video-juegos independientes y el Pixel Art. Visita mi web para conocer mas sobre mi trabajo.</p>
 
 ## Tecnologías:
 <p align="left">
