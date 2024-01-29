@@ -1,5 +1,5 @@
 <p text-align="center" width="100%" align="center"><img src="https://raw.githubusercontent.com/aliaxdev/aliaxdev/master/logo_aliax.png" width="100">
- <h1 text-align="center" width="100%" align="center">Hola, soy AliaxDev! <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">,</h1>
+ <h1 text-align="center" width="100%" align="center">Hola, soy AliaxDev! <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">
  <h3 text-align="center" width="100%" align="center"> 📌 Freelance | Full-Stack | Javascript Technologies | 💜 Open Source | Developer 💻</h3>
 </p> 
 
