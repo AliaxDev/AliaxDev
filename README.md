@@ -12,7 +12,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-@aliax.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/aliax.dev)
 [![Facebook](https://img.shields.io/badge/Facebook-@LeandroE-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/leandro.estupinan.5)
 </br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leandro.E-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/leandro.e.perez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leandro.E-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/leandro-estupi%C3%B1an-p%C3%A9rez-2a79872b1)
 [![Web](https://img.shields.io/badge/Web-AliaxDev-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://aliaxdev.github.io)
  
 <h3>> Soy Desarrollador Full-Stack Javascript desde hace más de 2️⃣ Años ❗❗</h3>
