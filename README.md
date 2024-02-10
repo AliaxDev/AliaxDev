@@ -14,8 +14,9 @@
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leandro.E-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/leandro-estupiñan-2a79872b1)
 [![Web](https://img.shields.io/badge/Web-AliaxDev-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://aliaxdev.github.io)
- 
-<h3>> Soy Desarrollador Full-Stack Javascript desde hace más de 2️⃣ Años ❗❗</h3>
+
+ ## Sobre Mí:
+<h3>> Soy Desarrollador Full-Stack Javascript desde hace más de 2 Años ❗</h3>
 
 <p>En los últimos años he crecido como Desarrollador donde <a href="https://aliaxdev.github.io">AliaxDev</a> es la unión de los resultados de mi esfuerzo en la industria del Desarrollo de Software. Me he estado especializando en el desarrollo de Aplicaciones Web y he aumentando mis proyectos personales. Soy amante de los video-juegos independientes y el Pixel Art. Visita mi web para conocer mas sobre mi trabajo.</p>
 
